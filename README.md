@@ -5,7 +5,7 @@
 broker.id=0\
 zookeeper.connect=localhost:2181\
 advertised.listeners=PLAINTEXT://101.200.124.173:9092\
-zookeeper.connection.timeout.ms=6000\
+zookeeper.connection.timeout.ms=6000
 
 
 ###consumer.properties :\
